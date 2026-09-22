@@ -92,6 +92,7 @@ Task_02_Customer_Segmentation/
 ├── customer_segments_result.csv
 ├── README.md
 └── requirements.txt
+```text
 ## How to Run the Project
 
 ### 1. Clone the repository
