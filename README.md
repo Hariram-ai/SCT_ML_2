@@ -81,13 +81,49 @@ Task_02_Customer_Segmentation/
 ├── data/
 │   └── Mall_Customers.csv
 │
+├── screenshots/
+│   ├── customer_segments.png
+│   ├── elbow_method.png
+│   └── silhouette_score.png
+│
 ├── task2.ipynb
-├── customer_segmentation.py
 ├── app.py
 ├── kmeans_model.pkl
 ├── customer_segments_result.csv
-├── elbow_method.png
-├── customer_segments.png
-├── silhouette_score.png
 ├── README.md
 └── requirements.txt
+## How to Run the Project
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Hariram-ai/SCT_ML_2.git
+
+### 2. Navigate to the project directory
+
+```bash
+cd SCT_ML_2
+
+### 3. Install dependencies
+
+```bash
+pip install -r requirements.txt
+
+### 4. Run the Streamlit application
+
+```bash
+streamlit run app.py
+
+## Live Demo
+
+[Click here to access the live Streamlit application](https://sctml2-6ejd3zqnq8nxqckyq5xvnr.streamlit.app/)
+
+## Results
+
+The K-Means algorithm successfully divided the 200 customers into five clusters based on Annual Income and Spending Score.
+
+The interactive Streamlit application allows users to enter Annual Income and Spending Score and obtain the corresponding customer segment.
+
+## Author
+
+**Hari Ram**
