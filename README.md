@@ -99,25 +99,35 @@ Task_02_Customer_Segmentation/
 
 ```bash
 git clone https://github.com/Hariram-ai/SCT_ML_2.git
+```
 
 ### 2. Navigate to the project directory
 
 ```bash
 cd SCT_ML_2
+```
 
 ### 3. Install dependencies
 
 ```bash
 pip install -r requirements.txt
+```
 
 ### 4. Run the Streamlit application
 
 ```bash
 streamlit run app.py
+```
 
-## Live Demo
+## 🔗 Project Links
 
-[Click here to access the live Streamlit application](https://sctml2-6ejd3zqnq8nxqckyq5xvnr.streamlit.app/)
+### 📁 GitHub Repository
+
+https://github.com/Hariram-ai/SCT_ML_2
+
+### 🚀 Live Demo
+
+https://sctml2-6ejd3zqnq8nxqckyq5xvnr.streamlit.app/
 
 ## Results
 
